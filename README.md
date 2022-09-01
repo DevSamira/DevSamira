@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Samira</h1>
 <h3 align="center">A brazilian FrontEnd Developer :)</h3>
 
-- 🔭 I’m currently working on **2W0Labs**
+- 🔭 I’m currently working on my **FrontEnd career**
 
-- 🌱 I’m currently learning **Frameworks & JavaScript**
+- 🌱 I’m currently learning **Frameworks(Vue) & JavaScript**
 
 - 📫 How to reach me **samieditor2020@gmail.com**
 
